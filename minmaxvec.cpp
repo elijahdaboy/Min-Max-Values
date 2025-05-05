@@ -2,7 +2,6 @@
 #include <vector>
 
 // find min and max value of a vector
-
 class FindValues{
     public:
         int findMinValueFunc(std::vector<int> vectorMain){
